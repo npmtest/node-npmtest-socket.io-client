@@ -1,4 +1,7 @@
-# test coverage for  [socket.io-client (v1.7.3)](https://github.com/Automattic/socket.io-client#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-socket.io-client.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-socket.io-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-socket.io-client.svg)](https://travis-ci.org/npmtest/node-npmtest-socket.io-client)
+# npmtest-socket.io-client
+
+#### basic test coverage for  [socket.io-client (v1.7.3)](https://github.com/Automattic/socket.io-client#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-socket.io-client.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-socket.io-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-socket.io-client.svg)](https://travis-ci.org/npmtest/node-npmtest-socket.io-client)
+
 #### [![Build Status](https://secure.travis-ci.org/socketio/socket.io-client.svg?branch=master)](http://travis-ci.org/socketio/socket.io-client) [![Dependency Status](https://david-dm.org/socketio/socket.io-client.svg)](https://david-dm.org/socketio/socket.io-
 
 [![NPM](https://nodei.co/npm/socket.io-client.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/socket.io-client)
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-socket.io-client/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-socket.io-client/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-socket.io-client/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-socket.io-client/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-socket.io-client/build/screenCapture.buildCi.browser.coverage.example.html.png)](https://npmtest.github.io/node-npmtest-socket.io-client/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-socket.io-client/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-socket.io-client/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-socket.io-client/build/screenCapture.buildCi.browser.test-report.html.png)](https://npmtest.github.io/node-npmtest-socket.io-client/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-socket.io-client/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-socket.io-client/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-socket.io-client/build/screenCapture.buildCi.browser.apidoc.html.png)](https://npmdoc.github.io/node-npmdoc-socket.io-client/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-socket.io-client/build/test-report.html](https://npmtest.github.io/node-npmtest-socket.io-client/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-socket.io-client/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-socket.io-client/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-socket.io-client/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-socket.io-client/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-socket.io-client/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-socket.io-client/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-socket.io-client/build/screenCapture.npmPackageListing.svg)
 
